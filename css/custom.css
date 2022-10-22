@@ -1,0 +1,88 @@
+media (min-width: 800px)
+.tablesaw {
+    table-layout: auto;
+}
+.tablesaw {
+    table-layout: fixed;
+}
+.tablesaw {
+    width: 100%;
+    max-width: 100%;
+    empty-cells: show;
+    border-collapse: collapse;
+    border: 0;
+    padding: 0;
+}
+table {
+    width: 100%;
+    border-spacing: 0;
+    margin-bottom: 1.5789473684210527em;
+}
+table {
+    width: 100%;
+    border-spacing: 0;
+    margin-bottom: 1.5789473684210527em;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+    outline: none;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: black;
+}
+
+table td {
+    font-family: Gentona Book, sans-serif;
+    font-size: 18px;
+    color: #797979;
+    padding: 10px 30px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    vertical-align: top;
+}
+table th {
+    font-family: Gentona Medium, sans-serif;
+    font-size: 25px;
+    color: #ffffff;
+    text-align: left;
+    padding-left: 30px;
+    background: #24c315;;
+    border-right: 0;
+}
+table th, table td {
+    padding: 0.625rem 1.25rem;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+td, th {
+    padding: 0;
+}
+table td {
+    font-family: Gentona Book, sans-serif;
+    font-size: 18px;
+    color: #797979;
+    padding: 10px 30px;
+    border-right: 1px solid #e5e2e0;
+    border-top: 1px solid #e5e2e0;
+    vertical-align: top;
+}
+table tr:nth-of-type(even) td {
+    background: rgba(30, 0, 0, .045);
+}
+table a:hover{
+	color: #28A219;
+	transition: 0.3s;
+	
+}
+/** ADD YOUR AWESOME CODES HERE **/
